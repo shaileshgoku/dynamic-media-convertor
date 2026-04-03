@@ -30,7 +30,7 @@ This application allows users to convert video and audio files into different fo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/media-converter.git
+git clone https://github.com/shaileshgoku/dynamic-media-convertor.git
 cd media-converter
 ```
 
